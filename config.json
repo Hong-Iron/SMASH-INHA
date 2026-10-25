@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "5호관": {
+      "style": "stone",
+      "wall": "#eceeec",
+      "glass": "#3d4b56",
+      "frame": "#474745"
+    },
+    "2남관": {
+      "style": "stone",
+      "wall": "#c7c6c4",
+      "glass": "#4a5258",
+      "frame": "#8d8f8e"
+    },
+    "학생회관": {
+      "style": "concrete",
+      "wall": "#e8dccf",
+      "glass": "#3f5a62",
+      "frame": "#cdbbad"
+    },
+    "정석학술정보관": {
+      "style": "glass",
+      "wall": "#ece6e2",
+      "glass": "#5f8a95",
+      "frame": "#c9cdd0"
+    },
+    "60주년기념관": {
+      "style": "glass",
+      "wall": "#3a3f48",
+      "glass": "#3f6f8a",
+      "frame": "#2f343b"
+    },
+    "하이테크센터": {
+      "style": "glass",
+      "wall": "#e6e7e8",
+      "glass": "#567e98",
+      "frame": "#b9bcc0"
+    },
+    "3동 (60주년기념관)": {
+      "style": "glass",
+      "wall": "#3a3f48",
+      "glass": "#3f6f8a",
+      "frame": "#2f343b"
+    },
+    "본관": {
+      "style": "stone",
+      "wall": "#c9c6bf",
+      "glass": "#4b4e4f",
+      "frame": "#98938d"
+    },
+    "2북관": {
+      "style": "stone",
+      "wall": "#c7c6c4",
+      "glass": "#4a5258",
+      "frame": "#8d8f8e"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
